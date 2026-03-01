@@ -1,7 +1,7 @@
 # Dataset Title: Supply Chain Technologies
 # Author: RENJIN RAJU
-# DOI: [Paste your Dataverse DOI here once published]
-# Date of Publication: [Enter the final publication date]
+# DOI: RAJU, RENJIN, 2025, "Supply chain technologies", https://doi.org/10.7910/DVN/1NQMAT, Harvard Dataverse, V1, UNF:6:m3gW7mcQNldZlAkgrlvmpA== [fileUNF]
+# Date of Publication: May 31, 2025
 # Institution: Deggendorf Institute of Technology
 # Thesis Project: Master’s Thesis – Technologies Enhancing Supply Chain Resilience
 
@@ -69,4 +69,4 @@ This means the dataset is free to use for academic and research purposes with pr
 ## Citation:
 If you use this dataset, please cite as:
 
-RAJU, RENJIN. 2025. “Supply Chain Technologies.” Harvard Dataverse. https://doi.org/10.7910/DVN/XXXXXX
+RAJU, RENJIN, 2025, "Supply chain technologies", https://doi.org/10.7910/DVN/1NQMAT, Harvard Dataverse, V1, UNF:6:m3gW7mcQNldZlAkgrlvmpA== [fileUNF]
